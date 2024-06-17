@@ -1,0 +1,9 @@
+--resource
+/root/pzv/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_pzv.qrc
+--resource
+/root/pzv/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/apppzv_raw_qml_0.qrc
+/pzv/Main.qml
+/pzv/Actions.qml
+/pzv/Content.qml
+/pzv/Dialogs.qml
+/pzv/FirstWindow.qml

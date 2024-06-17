@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/pzv">
+    <file alias="qmldir">/root/pzv/build/Desktop_Qt_6_7_1-Debug/pzv/qmldir</file>
+  </qresource>
+</RCC>
+

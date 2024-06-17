@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/pzv/">
+    <file alias="Main.qml">/root/pzv/Main.qml</file>
+    <file alias="Actions.qml">/root/pzv/Actions.qml</file>
+    <file alias="Content.qml">/root/pzv/Content.qml</file>
+    <file alias="Dialogs.qml">/root/pzv/Dialogs.qml</file>
+    <file alias="FirstWindow.qml">/root/pzv/FirstWindow.qml</file>
+    <file alias="resource.qrc">/root/pzv/resource.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+--bare
+-I
+/root/pzv/build/Desktop_Qt_6_7_1-Debug
+-I
+/opt/Qt/6.7.1/gcc_64/./qml
+--resource
+/root/pzv/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_pzv.qrc
+--resource
+/root/pzv/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/apppzv_raw_qml_0.qrc
+/root/pzv/Main.qml
+/root/pzv/Actions.qml
+/root/pzv/Content.qml
+/root/pzv/Dialogs.qml
+/root/pzv/FirstWindow.qml
